@@ -1,0 +1,17 @@
+GitSwift_update/
+│
+├── GitSwift_update.py              # Main application file
+├── requirements.py          # Requirements installer
+├── README.md               # Main repository documentation
+├── README.html            # HTML documentation
+├── README.txt             # Plain text documentation
+├── CHANGELOG.md           # Changelog file
+├── LICENSE               # License file
+├── .gitignore           # Git ignore file
+│
+├── docs/                 # Documentation directory
+│   ├── usage.md         # Usage documentation
+│   └── api.md           # API documentation
+│
+└── assets/              # Asset directory
+    └── icons/           # Application icons
